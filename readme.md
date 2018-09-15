@@ -1,3 +1,3 @@
-# My doctorial thesis
+# My doctoral thesis
 
 *forked from liubenyuan/nudtpaper*
